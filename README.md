@@ -126,7 +126,10 @@ Go to your *Properties* settings of your bucket tab.
 Go to your direct URL of your website and check, this already accessible for anyone worldwide.
 
 
+# Author
 
+**Shawn Mark Retes**
+Philippines 🇵🇭 — currently learning Cloud and DevOps
 
 
 
